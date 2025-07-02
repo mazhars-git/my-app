@@ -8,9 +8,9 @@ const Navbar = () => {
           MyApp
         </Link>
         <div className="space-x-6">
-          <Link href="/Home">Home</Link>
-          <Link href="/Home">Contact</Link>
-          <Link href="/Home">Login</Link>
+          <Link href="/">Home</Link>
+          <Link href="/contact">Contact</Link>
+          <Link href="/login">Login</Link>
         </div>
       </div>
     </nav>
