@@ -1,7 +1,7 @@
 import Navbar from "../../components/shared/Navbar";
 const CommonLayout = ({ children }) => {
   return (
-    <div className=" ">
+    <div className="">
       <Navbar />
       <main>{children}</main>
     </div>
